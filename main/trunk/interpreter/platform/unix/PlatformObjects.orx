@@ -1,2 +1,0 @@
--- set the endOfLine environment variable
-    .environment~setentry('ENDOFLINE', '0a'x)
