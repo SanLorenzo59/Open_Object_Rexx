@@ -1,0 +1,47 @@
+            Fixes in Open Object Rexx 4.3.0
+
+The following is a list of fixes, enhancements, and other relevant changes
+to ooRexx since the 4.2.0 release.  The numbers for each item can be used to
+look up the item in the appropriate tracker in the ooRexx project on
+SourceForge.  I.e., the Bugs tracker the, Feature Requests tracker, etc..
+
+  Bugs
+  ----
+
+  * xxxx	...
+
+
+
+  Requests For Enhancement
+  ------------------------
+
+  * xxx	...
+
+
+
+  Documentation Bugs
+  ------------------
+
+  * yyy	...
+
+
+
+Windows
+=======
+
+  Miscellaneous
+  -------------
+
+  - The version of ooDialog distributed with ooRexx is updated to ooDialog
+    version a.b.c.
+
+  - ooDialog has a separate release notes file that shows changes in
+    ooDialog.  The file: ooDialog_ReleaseNotes.txt is located with the other
+    ooRexx documentation in the distribution. The ooDialog.pdf manual also
+    lists all changes for the current version.
+
+
+Unix/Linux
+==========
+
+  ???
